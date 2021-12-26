@@ -1,5 +1,11 @@
-# OpenGL
-我和翟兴翔的Computer Graphic大作业
+## OpenGL画的圣诞树
 
-2021/12/17 Updation
->网卡交不上 百分百丢包我玩个毛
+SWE206 taught by Dr. Burra
+
+一个OpenGL画的圣诞树，用来发圣诞快乐的
+
+挺想发给你的，可惜你给我拉黑了
+
+---
+
+Appendix: This is the group project of SWE206 done by LEI YITAO & ZHAI XINGXIANG.
