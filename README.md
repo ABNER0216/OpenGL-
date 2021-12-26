@@ -8,6 +8,8 @@
 
 Welcome for any contribution to this project
 
+VS2017 with nuget package nupenGL
+
 ---
 
 Appendix: This is the group project of SWE206 done by LEI YITAO & ZHAI XINGXIANG.
