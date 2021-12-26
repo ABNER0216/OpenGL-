@@ -1,0 +1,31 @@
+﻿  Happy Christmas.cpp
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(1): warning C4117: 保留“_WCHAR_T_DEFINED”宏名，忽略“#define”
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(58): warning C4101: “aspect”: 未引用的局部变量
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(57): warning C4101: “size”: 未引用的局部变量
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(109): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(135): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(139): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(145): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(157): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(162): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(173): warning C4305: “=”: 从“double”到“GLfloat”截断
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(293): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(300): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(307): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(386): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(387): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(388): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(389): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(399): warning C4305: “-=”: 从“double”到“GLfloat”截断
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(405): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(416): warning C4305: “参数”: 从“double”到“GLclampf”截断
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(488): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(490): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(495): warning C4305: “+=”: 从“double”到“float”截断
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(496): warning C4305: “-=”: 从“double”到“float”截断
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(498): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(499): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github\computer graphic\happy christmas\happy christmas\happy christmas.cpp(500): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Happy Christmas.vcxproj -> D:\github\Computer Graphic\Happy Christmas\Debug\Happy Christmas.exe
